@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./coles_vs_woolies-main"
+    ]
+}
