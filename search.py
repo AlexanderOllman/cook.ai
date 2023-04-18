@@ -4,7 +4,7 @@ import os
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "OPEN-AI-KEY-HERE"
 
 chat_history = []
 chat_history.append({"role": "user", "content": "Based on ingredients known to be sold and easily available in Australia, think of 10 healthy, nutriciously rich recipes that take less than 10 minutes to prepare, serve two people, and share at least 70% of ingredients. Suggest the first recipe."})
